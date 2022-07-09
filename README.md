@@ -1,2 +1,2 @@
-# Instagram-14-Days-Bypass
+# Instagram_CVE_2019
 🚨 - Bypass the 14 Days waiting limit for Instagra Name change.
